@@ -1,0 +1,72 @@
+lisa:
+    display_name: "Lisa Hagena"
+    role: grad
+    bio: "Year 2019"
+jake:
+    display_name: "Jake Haubner"
+    role: grad
+    bio: "Year 2018"
+monica:
+    display_name: "Monica Pavlack"
+    role: grad
+    bio: "Year 2018"
+stephanie:
+    display_name: "Stephanie Michalski"
+    role: grad
+    bio: "Year 2018"
+johnny:
+    display_name: "Johnny Wong"
+    role: grad
+    bio: "Year 2018"
+rachel:
+    display_name: "Rachel Schafer"
+    role: grad
+    bio: "Year 2018"
+fatma:
+    display_name: "Fatma M. Mufti"
+    role: grad
+    bio: "Year 2018"
+naomi:
+    display_name: "Naomi Msengi"
+    role: grad
+    bio: "Year 2017"
+ammar:
+    display_name: "Ammar Mahmood"
+    role: grad
+    bio: "Year 2017"
+emmalie:
+    display_name: "Emmalie L. Schoepke"
+    role: grad
+    bio: "Year 2016"
+abigayle:
+    display_name: "Abigayle L. Schnell"
+    role: grad
+    bio: "Year 2016"
+kathryn:
+    display_name: "Kathryn I. Braden"
+    role: grad
+    bio: "Year 2016"
+shabnam:
+    display_name: "Shabnam J. Majidi"
+    role: grad
+    bio: "Year 2015"
+suomia:
+    display_name: "Suomia A. Abuirqeba"
+    role: grad
+    bio: "Year 2015"
+caron:
+    display_name: "Caron M. Harada"
+    role: grad
+    bio: "Year 2015"
+katie:
+    display_name: "Katie A. Kummer"
+    role: grad
+    bio: "Year 2015"
+meghan:
+    display_name: "Meghan H. Murray"
+    role: grad
+    bio: "MD/PHD Student"
+monica:
+    display_name: "Monica Goodland"
+    role: grad
+    bio: "MD/PHD Student"
